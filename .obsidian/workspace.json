@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 2 章 半导体二极管及其 基本应用电路/2.2 PN 结.md",
+                "file": "第 2 章 半导体二极管及其基本应用电路/2.2 PN 结.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 2 章 半导体二极管及其 基本应用电路/2.2 PN 结.md",
+                "file": "第 2 章 半导体二极管及其基本应用电路/2.2 PN 结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,9 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c3625af820a276e",
+  "active": "573875ff0bd4fb58",
   "lastOpenFiles": [
-    "第 2 章 半导体二极管及其 基本应用电路/2.3 半导体二极管.md",
+    "第 2 章 半导体二极管及其基本应用电路/2.3 半导体二极管.md",
     "README.md",
     "欢迎.md"
   ]
