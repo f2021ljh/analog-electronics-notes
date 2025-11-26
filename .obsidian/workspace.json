@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e479d92fbb246b02",
+        "id": "89cfedf69231f4a8",
         "type": "tabs",
         "children": [
           {
-            "id": "9ffae7bb56d13ac8",
+            "id": "bb010a77447e27d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 5 章 集成运算放大器的单元电路/5.3 多级放大电路.md",
+                "file": "第 6 章 集成运算放大器基本应用电路/6.7 电压比较器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.3 多级放大电路"
-            }
-          },
-          {
-            "id": "332d719a7d0e03d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第 5 章 集成运算放大器的单元电路/5.4 电流源.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.4 电流源"
-            }
-          },
-          {
-            "id": "6c614590c9edc6be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第 5 章 集成运算放大器的单元电路/5.5 差分放大电路.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.5 差分放大电路"
+              "title": "6.7 电压比较器"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第 2 章 半导体二极管及其 基本应用电路/2.3 半导体二极管.md",
+                "file": "第 6 章 集成运算放大器基本应用电路/6.7 电压比较器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2.3 半导体二极管 的反向链接列表"
+              "title": "6.7 电压比较器 的反向链接列表"
             }
           },
           {
@@ -171,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 5 章 集成运算放大器的单元电路/5.5 差分放大电路.md",
+                "file": "第 6 章 集成运算放大器基本应用电路/6.7 电压比较器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5.5 差分放大电路 的大纲"
+              "title": "6.7 电压比较器 的大纲"
             }
           },
           {
@@ -191,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,37 +180,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c614590c9edc6be",
+  "active": "bb010a77447e27d2",
   "lastOpenFiles": [
-    "第 5 章 集成运算放大器的单元电路/images/5.5/differential-amp-circuit.png",
-    "第 5 章 集成运算放大器的单元电路/images/5.5",
-    "第 5 章 集成运算放大器的单元电路/5.5 差分放大电路.md",
+    "第 6 章 集成运算放大器基本应用电路/6.7 电压比较器.md",
+    "第 6 章 集成运算放大器基本应用电路/6.6 对数和指数运算电路.md",
+    "第 6 章 集成运算放大器基本应用电路/6.5 积分和微分运算电路.md",
+    "第 6 章 集成运算放大器基本应用电路/6.4 加减运算电路.md",
+    "第 6 章 集成运算放大器基本应用电路/images/6.5/integrator-amp.png",
+    "第 6 章 集成运算放大器基本应用电路/images/6.5",
+    "第 6 章 集成运算放大器基本应用电路/images/6.4/example-inverted-scaling-summing-amp.png",
+    "第 6 章 集成运算放大器基本应用电路/images/6.4/example-inverted-scaling-summing-amp.png",
+    "第 6 章 集成运算放大器基本应用电路/images/6.4/inverted-scaling-summing-amp.png",
+    "第 6 章 集成运算放大器基本应用电路/6.3 比例运算电路.md",
+    "第 3 章 双极型晶体管及其基本放大电路/3.2 双极型晶体管.md",
+    "第 6 章 集成运算放大器基本应用电路/images/6.3/non-inverting-proportional-op-amp.png",
+    "第 6 章 集成运算放大器基本应用电路/images/6.3/inverting-proportional-op-amp.png",
+    "第 6 章 集成运算放大器基本应用电路/images/6.3/differential-proportional-op-amp.png",
+    "第 6 章 集成运算放大器基本应用电路/images/6.3/voltage-follower.png",
+    "第 6 章 集成运算放大器基本应用电路/6.2 理想运算放大器.md",
+    "第 6 章 集成运算放大器基本应用电路/images/6.3",
+    "第 6 章 集成运算放大器基本应用电路/images/6.2/virtual-gnd.png",
+    "第 6 章 集成运算放大器基本应用电路/images",
+    "第 6 章 集成运算放大器基本应用电路/images/6.2",
+    "第 5 章 集成运算放大器的单元电路/5.2 集成运算放大器概述.md",
+    "第 5 章 集成运算放大器的单元电路/5.7 集成运算放大器的参数和种类.md",
+    "第 7 章 放大电路中的反馈",
+    "第 5 章 集成运算放大器的单元电路/5.6 互补运算放大电路.md",
+    "第 6 章 集成运算放大器基本应用电路/images/6.4",
+    "第 5 章 集成运算放大器的单元电路/images/5.3/current-sources-moving-dc-potential.png",
+    "第 6 章 集成运算放大器基本应用电路",
     "第 5 章 集成运算放大器的单元电路/5.4 电流源.md",
     "第 5 章 集成运算放大器的单元电路/5.3 多级放大电路.md",
-    "第 5 章 集成运算放大器的单元电路/images/5.3/transistor-potential-adjustment.png",
-    "第 5 章 集成运算放大器的单元电路/images/5.3/optocoupler-characteristics.png",
-    "第 5 章 集成运算放大器的单元电路/images/5.3/opto-coupling-amp-circuit.png",
-    "第 5 章 集成运算放大器的单元电路/images/5.3/opto-coupling.png",
-    "第 5 章 集成运算放大器的单元电路/images/5.3/transformer-coupling-network.png",
-    "第 5 章 集成运算放大器的单元电路/images/5.3/transformer-coupling-load.png",
-    "第 5 章 集成运算放大器的单元电路/images/5.3/transformer-coupling-amp-circuits.png",
-    "第 5 章 集成运算放大器的单元电路/images/5.3/rc-coupling-amp-circuits.png",
-    "第 5 章 集成运算放大器的单元电路/images/5.3/rc-coupling-networks.png",
+    "第 4 章 场效应管及其基本放大电路",
+    "第 5 章 集成运算放大器的单元电路/5.5 差分放大电路.md",
+    "第 5 章 集成运算放大器的单元电路/images/5.5",
     "第 5 章 集成运算放大器的单元电路/images/5.3",
-    "第 5 章 集成运算放大器的单元电路/5.2 集成运算放大器概述.md",
-    "第 5 章 集成运算放大器的单元电路/images/5.2",
-    "第 5 章 集成运算放大器的单元电路/images",
-    "第 5 章 集成运算放大器的单元电路",
     "README.md",
-    "第 3 章 双极型晶体管及其基本放大电路/3.2 双极型晶体管.md",
-    "第 3 章 双极型晶体管及其基本放大电路/images/3.2",
-    "第 3 章 双极型晶体管及其基本放大电路/images",
     "第 2 章 半导体二极管及其基本应用电路/2.3 PN 结.md",
     "第 2 章 半导体二极管及其基本应用电路/2.2 半导体基础知识.md",
     "第 2 章 半导体二极管及其基本应用电路/2.5 稳压二极管.md",
     "第 2 章 半导体二极管及其基本应用电路/2.4 半导体二极管.md",
-    "第 3 章 双极型晶体管及其基本放大电路/3.2 双极型晶体管",
-    "第 3 章 双极型晶体管及其基本放大电路",
     "欢迎.md"
   ]
 }
