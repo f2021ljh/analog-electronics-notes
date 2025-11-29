@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "6.7 电压比较器"
             }
+          },
+          {
+            "id": "2f5e93d1eeaee28f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 6 章 集成运算放大器基本应用电路/6.7 电压比较器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "6.7 电压比较器 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -180,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb010a77447e27d2",
+  "active": "2f5e93d1eeaee28f",
   "lastOpenFiles": [
     "第 6 章 集成运算放大器基本应用电路/6.7 电压比较器.md",
     "第 6 章 集成运算放大器基本应用电路/6.6 对数和指数运算电路.md",
